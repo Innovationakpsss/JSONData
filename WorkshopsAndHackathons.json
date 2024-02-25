@@ -1,4 +1,5 @@
-[
+{ 
+    "Competitions":[
     {
         "name": "Generative AI workshop/session",
         "description": "Followed by fun activities around the same topic...",
@@ -86,3 +87,4 @@
         "url" : ""
       }
 ]
+}
