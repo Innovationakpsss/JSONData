@@ -1,0 +1,119 @@
+[
+    {
+        "name": "The Engineer’s Monopoly",
+        "description": "A fusion of monetary dealings and challenging tasks...",
+        "detailedDescription": "A fusion of monetary dealings and challenging tasks followed by building a hands-on assembly in limited time.",
+        "coordinators": [
+            {
+                "name": "Shravani Gogawale",
+                "contact": "8698291672"
+            },
+            {
+                "name": "Vaishnavi Borkar",
+                "contact": "9307982886"
+            }
+        ],
+        "registration_details": {
+            "teamSize": 2,
+            "registration_fee": "Rs. 200/-"
+        }
+    },
+    {
+        "name": "TrailBlazers",
+        "description": "Event in which one partner navigates through...",
+        "detailedDescription": "Event in which one partner navigates through hurdles with the help of another partner without using the conventional directional words, instead using code words for directions.",
+        "coordinators": [
+            {
+                "name": "Alekhya",
+                "contact": "7218469330"
+            }
+        ],
+        "registration_details": {
+            "teamSize": 2,
+            "registration_fee": "Rs. 60/-"
+        }
+    },
+    {
+        "name": "Battle Royale Brawl (E-Sports Event) : CODM",
+        "description": "Gear up for an electrifying inter-college E-sports...",
+        "detailedDescription": "Gear up for an electrifying inter-college E-sports extravaganza! Dive into the adrenaline-fueled action of our E-sports event featuring intense battles in Fall Guys and tactical warfare in Call of Duty Mobile(CODM). Race through virtual playgrounds, hurdle obstacles, and engage in tactical warfare for a chance to claim glory!",
+        "coordinators": [
+            {
+                "name": "Mitasha Jadhav",
+                "contact": "8999379932"
+            },
+            {
+                "name": "Sonia Dessai",
+                "contact": "8975209325"
+            }
+        ],
+        "registration_details": {
+            "game": "CODM",
+            "teamSize": 4,
+            "maxEntries": 80,
+            "registration_fee": "Rs. 250/- per team"
+        }
+    },
+    {
+        "name": "Battle Royale Brawl (E-Sports Event) : Fall Guys",
+        "description": "Gear up for an electrifying inter-college E-sports...",
+        "detailedDescription": "Gear up for an electrifying inter-college E-sports extravaganza! Dive into the adrenaline-fueled action of our E-sports event featuring intense battles in Fall Guys and tactical warfare in Call of Duty Mobile(CODM). Race through virtual playgrounds, hurdle obstacles, and engage in tactical warfare for a chance to claim glory!",
+        "coordinators": [
+            {
+                "name": "Mitasha Jadhav",
+                "contact": "8999379932"
+            },
+            {
+                "name": "Sonia Dessai",
+                "contact": "8975209325"
+            }
+        ],
+        "registration_details": {
+            "game": "Fall Guys",
+            "teamSize": 1,
+            "maxEntries": 160,
+            "registration_fee": "Rs. 30/-"
+        }
+    },
+    {
+        "name": "TradeTrek",
+        "description": "TradeTrek is an import-export game especially curated for ...",
+        "detailedDescription": "TradeTrek is an import-export game especially curated for international relations enthusiasts, where teams represent a country and trade resources to move towards a goal whilst strategizing about their country’s balance of payments.",
+        "registration_details": {
+            "teamSize": "NA",
+            "registration_fee": "NA"
+        },
+        "coordinators": []
+    },
+    {
+        "name": "Amoung Us AR/VR",
+        "description": "An offline social deduction game inspired by 'Among Us', where players...",
+        "detailedDescription": "An offline social deduction game inspired by 'Among Us', where players complete AR tasks while imposters try to sabotage and eliminate crewmates. The Virtual Reality Showcase aims to provide participants with an immersive experience in virtual reality (VR) and augmented reality (AR). Attendees can explore various virtual environments and interactive experiences using Oculus Quest 2 headsets while engaging in AR-based activities while waiting in queue.",
+        "registration_details": {
+            "teamSize": "NA",
+            "registration_fee": "NA"
+        },
+        "coordinators": []
+    },
+    {
+        "name": "Robotics-Aaveg",
+        "description": "",
+        "detailedDescription": "",
+        "coordinators": [
+            {
+                "name": "",
+                "contact": ""
+            },
+            {
+                "name": "",
+                "contact": ""
+            }
+        ],
+        "registration_details": {
+            "teamSize": 2,
+            "registration_fee": "Rs. /-"
+        }
+    }
+
+    
+]

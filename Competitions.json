@@ -1,0 +1,48 @@
+{
+    "Competitions": [
+        {
+            "name": "DSA Craft",
+            "description": "This competition for college and university students emphasizes the vital role of Data Structures and...",
+            "detailed-description": "This competition for college and university students emphasizes the vital role of Data Structures and Algorithms (DSA). Teams of four navigate  testing their DSA, Logical Reasoning, and Object-Oriented Programming skills. The competition focuses on project development in various domains.  Recognizing top projects promotes the significance of DSA in problem-solving and creativity, offering participants a platform to showcase and enhance their skills in an ethical competitive environment.",
+            "teamSize": " 4 members",
+            "prizePool": "TBD",
+            "registrationFee": "Rs 150/- per team",
+            "coordinators": [
+                {
+                    "name": "Mahak Gurusinghani ",
+                    "phone": "+91  8080887590"
+                },
+                {
+                    "name": "Rutuja Kande",
+                    "phone": "+91 7420892062"
+                }
+            ],
+            "venue": "Cummins College Pune",
+            "date": "TBD",
+            "time": "TBD",
+            "url": ""
+        },
+        {
+            "name": "Engineer's Canvas",
+            "description": "This competition for college and university students emphasizes the vital role of Data Structures and...",
+            "detailed-description": "Engineer's Canvas is an inclusive competition for innovative projects and ongoing research, emphasizing Originality, technology aspects, and Purpose. Participants craft visually striking posters highlighting their project's design methodology, approach, and technology used. Presentations focus on showcasing findings and research contributions, providing a platform for participants to demonstrate their unique perspectives in engineering and research.",
+            "teamSize": " 1 to 2 members",
+            "prizePool": "TBD",
+            "registrationFee": "Rs 50/- per team",
+            "coordinators": [
+                {
+                    "name": "Ketaki Deshwandikar ",
+                    "phone": "+91 9503085615"
+                },
+                {
+                    "name": "Maithili Deshpande",
+                    "phone": "+91 9604853266"
+                }
+            ],
+            "venue": "Cummins College Pune",
+            "date": "TBD",
+            "time": "TBD",
+            "url": ""
+        }
+    ]
+}

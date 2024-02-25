@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Generative AI workshop/session",
+        "description": "Followed by fun activities around the same topic...",
+        "detailedDescription": "Followed by fun activities around the same topic. Individual participation.",
+        "coordinators": [
+            {
+                "name": "Vishakha",
+                "contact": "8433539378"
+            },
+            {
+                "name": "Komal Chaudhari",
+                "contact": "7218335291"
+            }
+        ],
+        "registration_details": {
+            "teamSize": " ",
+            "registration_fee": "150/- "
+        }
+    },
+    {
+        "name": "Quantum computing workshop",
+        "description": "A 3-hour Quantum Computing Workshop. Through hands-on activities, participants...",
+        "detailedDescription": "A 3-hour Quantum Computing Workshop. Through hands-on activities, participants will explore the fundamentals of quantum mechanics and delve into the principles of quantum computing. Engage with qubits, quantum gates, and algorithms, gaining practical insights into this cutting-edge technology's potential applications.",
+        "coordinators": [
+            {
+                "name": "Aarya Dandapur",
+                "contact": "7410583880"
+            },
+            {
+                "name": "Aditi Wagh",
+                "contact": "7972696670"
+            }
+        ],
+        "registration_details": {
+            "teamSize": " ",
+            "registration_fee": "50/- "
+        }
+    },
+    {
+        "name": "Software Hackathon",
+        "description": "Ready to code your way through real-world challenges? Join our Software Hackathon for...",
+        "detailed-description": "Ready to code your way through real-world challenges? Join our Software Hackathon for 24 hours of non-stop problem-solving! Get hands-on with industry problem statements and engineer innovative solutions. Don't miss out – register now!",
+        "teamSize": " 3 to 4 members",
+        "prizePool": "TBD",
+        "registrationFee": "Rs 200/- per team \nAdditional Fee for Round 3 Shortlisted Teams: Rs 100/- per team ",
+        "coordinators": [
+          { "name": "Sejal Shirude", "phone": "+91 7498641406" },
+          { "name": "Srushti Johari", "phone": "+91 8805580800" }
+        ],
+        "venue": "Cummins College Pune",
+        "date": "TBD",
+        "time": "TBD",
+        "url":""
+      },
+      {
+        "name": "Hardware Hackathon",
+        "description": "...",
+        "detailed-description": " ",
+        "teamSize": " 3 to 4 members",
+        "prizePool": "TBD",
+        "registrationFee": "Rs 200/- per team \n Round 3 Shortlisted Teams: Additional Fee Rs 100/- per team ",
+        "coordinators": [
+          { "name": "", "phone": "+91 " },
+          { "name": "", "phone": "+91 " }
+        ],
+        "venue": "Cummins College Pune",
+        "date": "TBD",
+        "time": "TBD",
+        "urls" : ""
+      },
+      {
+        "name": "Datathon",
+        "description": "Datathon, a 10-hour Data Science Hackathon, is a dynamic platform for teams to...",
+        "detailed-description": "Datathon, a 10-hour Data Science Hackathon, is a dynamic platform for teams to showcase their prowess in AI, ML, and Data Science through real-time projects. Emphasizing the core of data science, participants, in teams of three to four, dive into industry-oriented challenges. ",
+        "teamSize": " 3 to 4 members",
+        "prizePool": "TBD",
+        "registrationFee": "Rs 200/- per team",
+        "coordinators": [
+          { "name": "Shreya Watwe", "phone": "+91 8888880300" },
+          { "name": "Rasika Devenhalli", "phone": "+91 7588063912" }
+        ],
+        "venue": "Cummins College Pune",
+        "date": "TBD",
+        "time": "TBD",
+        "url" : ""
+      }
+]
