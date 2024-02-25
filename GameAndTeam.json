@@ -1,4 +1,4 @@
-[
+{ "Competitions":[
     {
         "name": "The Engineer’s Monopoly",
         "description": "A fusion of monetary dealings and challenging tasks...",
@@ -117,3 +117,4 @@
 
     
 ]
+}
