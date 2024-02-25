@@ -43,6 +43,95 @@
             "date": "TBD",
             "time": "TBD",
             "url": ""
+        } {
+            "name": "Rope Climbing Robot",
+	    "description": "The competition is fierce, with a variety of challenging...",
+            "detailedDescription": "The competition is fierce, with a variety of challenging conditions including robot weight restrictions, team composition, and other technical constraints. The clock is ticking, and every second counts! The winner will be based on a robot crossing the finish mark with minimum time.",
+            "coordinators": [
+                {
+                    "name": "Siddhi Nirgude",
+                    "contact": "9373222620"
+                }
+            ],
+            "registration_details": {
+                "teamSize": "1-4 per team",
+                "registration_fee": "Rs. 300/-"
+            }
+        },
+        {
+            "name": "AI' Artist",
+	    "description": "Create AI-generated art, focusing on how to prompt...",
+            "detailedDescription": "Create AI-generated art, focusing on how to prompt the AI to get the best possible desired outcome. A chance to work on the most demanded AI platform DALL-E. Create a story based on the images.",
+            "coordinators": [
+                {
+                    "name": "Simran Desai",
+                    "contact": "9872071641"
+                }
+            ],
+            "registration_details": {
+                "teamSize": 3,
+                "registration_fee": "Rs. 90/-"
+            }
+        },
+        {
+            "name": "ProtoSprint",
+	    "description": "Create functional objects or prototypes on SOLIDWorks within a specified...",
+            "detailedDescription": "Create functional objects or prototypes on SOLIDWorks within a specified time frame based on a given number of constraints and present a PPT on its concept design & working.",
+            "coordinators": [
+                {
+                    "name": "Kashmira Lohar",
+                    "contact": "9503943737"
+                },
+                {
+                    "name": "Mital Paratane",
+                    "contact": "9764069421"
+                }
+            ],
+            "registration_details": {
+                "teamSize": "1-2 students",
+                "maxEntries": 20,
+                "registration_fee": "Rs. 200/-"
+            }
+        },
+        {
+            "name": "Ideation",
+	    "description": "\"Ideation springs from its root word, \"\"idea\"\" and involves...",
+            "detailedDescription": "\"Ideation springs from its root word, \"\"idea\"\" and involves the mental process of brainstorming concepts and theories. A fundamental problem statement will be provided to the team, which is to be implemented using the given material in the given stipulated amount of time.\"",
+            "coordinators": [
+                {
+                    "name": "Rucha Darshane",
+                    "contact": "8788819876"
+                },
+                {
+                    "name": "Sakshi Nanavare",
+                    "contact": "7262811456"
+                }
+            ],
+            "registration_details": {
+                "teamSize": "1-2 per team",
+                "registration_fee": "Rs. 100/-"
+            }
+        },
+        {
+            "name": "CTF -CODExMATH",
+	    "description": "Capture The Flag (CTF) is a type of competition that challenges...",
+            "detailedDescription": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to uncover \"flags\" hidden within vulnerable systems or applications. These flags are typically short strings of text that serve as proof that the participant has successfully exploited a vulnerability or solved a particular challenge.",
+            "registration_details": {
+                "teamSize": "NA",
+                "registration_fee": "NA"
+            },
+            "coordinators": []
+        },
+        {
+            "name": "Tech Debate Competition -IEEExTDSC",
+	    "description": "The Tech Debate Competition consists of multiple rounds where...",
+            "detailedDescription": "The Tech Debate Competition consists of multiple rounds where teams will engage in debates on various technology-related topics. The competition aims to foster critical thinking, persuasive communication, and teamwork among participants.",
+            "registration_details": {
+                "teamSize": 3,
+                "advancedRegistrationRequired": true,
+                "registration_fee": "Rs. 100/- per team"
+            }
+            , "coordinators": []
         }
     ]
 }
