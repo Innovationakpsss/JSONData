@@ -15,8 +15,8 @@
             }
         ],
         "registration_details": {
-            "teamSize": " ",
-            "registration_fee": "150/- "
+            "teamSize": "1(Individual)",
+            "registration_fee": "100/- "
         }
     },
     {
@@ -34,7 +34,7 @@
             }
         ],
         "registration_details": {
-            "teamSize": " ",
+            "teamSize": "1(Individual)",
             "registration_fee": "50/- "
         }
     },
@@ -55,15 +55,15 @@
         "url":""
       },
       {
-        "name": "Hardware Hackathon",
-        "description": "...",
-        "detailed-description": " ",
+        "name": "Bug Zappers and Board Builders",
+        "description": "In this event, the problem statement will consist of a real life application which will be ...",
+        "detailed-description": "In this event, the problem statement will consist of a real life application which will be given to the participants and they have to simulate and implement the solution within 13 hours. This event will provide all participants a great opportunity and hands on experience to all the participants. ",
         "teamSize": " 3 to 4 members",
         "prizePool": "TBD",
-        "registrationFee": "Rs 200/- per team \n Round 3 Shortlisted Teams: Additional Fee Rs 100/- per team ",
+        "registrationFee": "100/- per team for quiz \n If the team is selected for 2nd round additional charges of 200/- apply. ",
         "coordinators": [
-          { "name": "", "phone": "+91 " },
-          { "name": "", "phone": "+91 " }
+          { "name": "Anushka Patil ", "phone": "+91 7447551265" },
+          { "name": "Pranita Bhadange", "phone": "+91 7499630200" }
         ],
         "venue": "Cummins College Pune",
         "date": "TBD",
