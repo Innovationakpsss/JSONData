@@ -43,44 +43,44 @@
             "date": "4th april",
             "time": "11.00 am",
             "url": "https://unstop.com/o/pmQhdIv?lb=Of4ghhfk"
-        }, {
+        },
+        {
             "name": "Climb Master",
-	    "description": "The competition is fierce, with a variety of challenging...",
+            "description": "The competition is fierce, with a variety of challenging...",
             "detailedDescription": "The competition is fierce, with a variety of challenging conditions including robot weight restrictions, team composition, and other technical constraints. The clock is ticking, and every second counts! The winner will be based on a robot crossing the finish mark with minimum time.",
             "coordinators": [
                 {
                     "name": "Siddhi Nirgude",
                     "contact": "+91 9373222620"
                 },
-		{
+                {
                     "name": "Purva Honrao",
                     "contact": "+91 9423503680"
                 }
-		
             ],
             "registration_details": {
                 "teamSize": "1-4 per team",
                 "registration_fee": "Rs. 300/-"
             },
-	     "venue": "Cummins College Pune",
+            "venue": "Cummins College Pune",
             "date": "TBD",
             "time": "TBD",
-            "url": "https://unstop.com/p/climb-master-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910479"	
+            "url": "https://unstop.com/p/climb-master-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910479"
         },
         {
             "name": "AI' Artist",
-	    "description": "Create AI-generated art, focusing on how to prompt...",
+            "description": "Create AI-generated art, focusing on how to prompt...",
             "detailedDescription": "Create AI-generated art, focusing on how to prompt the AI to get the best possible desired outcome. A chance to work on the most demanded AI platform DALL-E. Create a story based on the images.",
             "coordinators": [
                 {
                     "name": "Simran Desai",
                     "contact": "+91 9872071641"
                 },
-		     {
+                {
                     "name": "Ananti Mulay",
                     "contact": "+91 9689470857"
                 },
-		     {
+                {
                     "name": "Gayatri Savarkar",
                     "contact": "+91 7021271953"
                 }
@@ -89,16 +89,15 @@
                 "teamSize": 3,
                 "registration_fee": "Rs. 120/-"
             },
-	     "prize pool":"Rs.8K",	
-	    "venue": "Cummins College Pune",
+            "prize pool": "Rs.8K",
+            "venue": "Cummins College Pune",
             "date": "4th April",
             "time": "2pm",
-            "url":"https://unstop.com/p/ai-artist-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910202"
-		
+            "url": "https://unstop.com/p/ai-artist-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910202"
         },
         {
             "name": "ProtoSprint",
-	    "description": "Create functional objects or prototypes on SOLIDWorks within a specified...",
+            "description": "Create functional objects or prototypes on SOLIDWorks within a specified...",
             "detailedDescription": "Create functional objects or prototypes on SOLIDWorks within a specified time frame based on a given number of constraints and present a PPT on its concept design & working.",
             "coordinators": [
                 {
@@ -115,15 +114,15 @@
                 "maxEntries": 20,
                 "registration_fee": "Rs. 200/-"
             },
-	      "prize pool":"Rs.18K"
-	     "venue": "Cummins College Pune",
+            "prize pool": "Rs.18K",
+            "venue": "Cummins College Pune",
             "date": "4th and 5th April",
             "time": "TBD",
             "url": "https://unstop.com/p/protosprint-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910074"
         },
         {
             "name": "Ideation",
-	    "description": "\"Ideation springs from its root word, \"\"idea\"\" and involves...",
+            "description": "\"Ideation springs from its root word, \"\"idea\"\" and involves...",
             "detailedDescription": "\"Ideation springs from its root word, \"\"idea\"\" and involves the mental process of brainstorming concepts and theories. A fundamental problem statement will be provided to the team, which is to be implemented using the given material in the given stipulated amount of time.\"",
             "coordinators": [
                 {
@@ -139,57 +138,57 @@
                 "teamSize": "2 per team",
                 "registration_fee": "Rs. 100/-"
             },
-	    "prize pool":"Rs.15K"
-	     "venue": "Cummins College Pune",
+            "prize pool": "Rs.15K",
+            "venue": "Cummins College Pune",
             "date": "4th April 2024",
             "time": "12.00 pm",
             "url": "https://unstop.com/p/ideation-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910430"
         },
         {
-        "name": "Capture The Flag",
-        "description": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to",
-        "detailedDescription": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to uncover 'flags' hidden within vulnerable systems or applications. These flags are typically short strings of text that serve as proof that the participant has successfully exploited a vulnerability or solved a particular challenge.",
-        "coordinators": [
-            {
-                "name": "Annada Dash",
-                "contact": "+91 9004526186"
+            "name": "Capture The Flag",
+            "description": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to",
+            "detailedDescription": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to uncover 'flags' hidden within vulnerable systems or applications. These flags are typically short strings of text that serve as proof that the participant has successfully exploited a vulnerability or solved a particular challenge.",
+            "coordinators": [
+                {
+                    "name": "Annada Dash",
+                    "contact": "+91 9004526186"
+                },
+                {
+                    "name": "Tanya Gadwal",
+                    "contact": "+91 7888037364"
+                }
+            ],
+            "registration_details": {
+                "teamSize": 2,
+                "registration_fee": "Rs. 100/-"
             },
-            {
-                "name": "Tanya Gadwal",
-                "contact": "+91 7888037364"
-            }
-        ],
-        "registration_details": {
-            "teamSize": 2,
-            "registration_fee": "Rs. 100/-"
-        },
-	     "prize pool":""
-	     "venue": "Cummins College Pune",
+            "prize pool": "",
+            "venue": "Cummins College Pune",
             "date": "5th April 2024",
             "time": "8.00 am",
             "url": "https://unstop.com/hackathons/capture-the-flag-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-911412"
-	},		
+        },
         {
             "name": "Byte Battles",
-	    "description": "The Tech Debate Competition consists of multiple rounds where...",
+            "description": "The Tech Debate Competition consists of multiple rounds where...",
             "detailedDescription": "The Tech Debate Competition consists of multiple rounds where teams will engage in debates on various technology-related topics. The competition aims to foster critical thinking, persuasive communication, and teamwork among participants.",
             "registration_details": {
                 "teamSize": 3,
                 "advancedRegistrationRequired": true,
                 "registration_fee": "Rs. 100/- per team"
-            }
-            , "coordinators": [
-		    {
-			    "name":"Sanika Rudrawar",
-			    "contact":"+91 7066830834"
-		    },
-		    {
-			    "name":"Shriya Kulkarni",
-			    "contact":"+91 8975042810"
-		    }
-	    ],
-              "prize pool":"Rs.5K"
-	     "venue": "Cummins College Pune",
+            },
+            "coordinators": [
+                {
+                    "name": "Sanika Rudrawar",
+                    "contact": "+91 7066830834"
+                },
+                {
+                    "name": "Shriya Kulkarni",
+                    "contact": "+91 8975042810"
+                }
+            ],
+            "prize pool": "Rs.5K",
+            "venue": "Cummins College Pune",
             "date": "5th April 2024",
             "time": "9.00 am",
             "url": "https://unstop.com/competitions/byte-battles-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-911378"
