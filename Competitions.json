@@ -71,6 +71,7 @@
         "teamSize": "1-4 per team",
         "registration_fee": "Rs. 300/-"
       },
+      "prizePool":"",
       "venue": "Cummins College Pune",
       "date": "TBD",
       "time": "TBD",
@@ -98,7 +99,7 @@
         "teamSize": 3,
         "registration_fee": "Rs. 120/-"
       },
-      "prize pool": "Rs.8K",
+      "prizePool": "Rs.8K",
       "venue": "Cummins College Pune",
       "date": "4th April",
       "time": "2pm",
@@ -123,7 +124,7 @@
         "maxEntries": 20,
         "registration_fee": "Rs. 200/-"
       },
-      "prize pool": "Rs.18K",
+      "prizePool": "Rs.18K",
       "venue": "Cummins College Pune",
       "date": "4th and 5th April",
       "time": "TBD",
@@ -147,7 +148,7 @@
         "teamSize": "2 per team",
         "registration_fee": "Rs. 100/-"
       },
-      "prize pool": "Rs.15K",
+      "prizePool": "Rs.15K",
       "venue": "Cummins College Pune",
       "date": "4th April 2024",
       "time": "12.00 pm",
@@ -171,7 +172,7 @@
         "teamSize": 2,
         "registration_fee": "Rs. 100/-"
       },
-      "prize pool": "",
+      "prizePool": "",
       "venue": "Cummins College Pune",
       "date": "5th April 2024",
       "time": "8.00 am",
@@ -196,7 +197,7 @@
           "contact": "+91 8975042810"
         }
       ],
-      "prize pool": "Rs.5K",
+      "prizePool": "Rs.5K",
       "venue": "Cummins College Pune",
       "date": "5th April 2024",
       "time": "9.00 am",
