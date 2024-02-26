@@ -113,25 +113,42 @@
             }
         },
         {
-            "name": "CTF -CODExMATH",
-	    "description": "Capture The Flag (CTF) is a type of competition that challenges...",
-            "detailedDescription": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to uncover \"flags\" hidden within vulnerable systems or applications. These flags are typically short strings of text that serve as proof that the participant has successfully exploited a vulnerability or solved a particular challenge.",
-            "registration_details": {
-                "teamSize": "NA",
-                "registration_fee": "NA"
+        "name": "Capture The Flag",
+        "description": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to",
+        "detailedDescription": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to uncover 'flags' hidden within vulnerable systems or applications. These flags are typically short strings of text that serve as proof that the participant has successfully exploited a vulnerability or solved a particular challenge.",
+        "coordinators": [
+            {
+                "name": "Annada Dash",
+                "contact": "+91 9004526186"
             },
-            "coordinators": []
+            {
+                "name": "Tanya Gadwal",
+                "contact": "+91 7888037364"
+            }
+        ],
+        "registration_details": {
+            "teamSize": 2,
+            "registration_fee": "Rs. 50/-(Cummins) Rs.100/- (Others)"
         },
         {
-            "name": "Tech Debate Competition -IEEExTDSC",
+            "name": "Byte Battles-IEEExTDSC",
 	    "description": "The Tech Debate Competition consists of multiple rounds where...",
             "detailedDescription": "The Tech Debate Competition consists of multiple rounds where teams will engage in debates on various technology-related topics. The competition aims to foster critical thinking, persuasive communication, and teamwork among participants.",
             "registration_details": {
                 "teamSize": 3,
                 "advancedRegistrationRequired": true,
-                "registration_fee": "Rs. 100/- per team"
+                "registration_fee": "Rs. 125/- per team(cummins) Rs.150/-(Others)"
             }
-            , "coordinators": []
+            , "coordinators": [
+		    {
+			    "name":"Sanika Rudrawar",
+			    "contact":"+91 7066830834"
+		    },
+		    {
+			    "name":"Shriya Kulkarni",
+			    "contact":"+91 8975042810"
+		    }
+	    ]
         }
     ]
 }
