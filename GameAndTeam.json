@@ -25,8 +25,13 @@
         "coordinators": [
             {
                 "name": "Alekhya",
-                "contact": "7218469330"
+                "contact": "+91 7218469330"
+            },
+            {
+                "name": "Devyani Patil",
+                "contact": "+91 9403494735"
             }
+            
         ],
         "registration_details": {
             "teamSize": 2,
@@ -40,11 +45,11 @@
         "coordinators": [
             {
                 "name": "Mitasha Jadhav",
-                "contact": "8999379932"
+                "contact": "+91 8999379932"
             },
             {
                 "name": "Sonia Dessai",
-                "contact": "8975209325"
+                "contact": "+91 8975209325"
             }
         ],
         "registration_details": {
@@ -80,10 +85,19 @@
         "description": "TradeTrek is an import-export game especially curated for ...",
         "detailedDescription": "TradeTrek is an import-export game especially curated for international relations enthusiasts, where teams represent a country and trade resources to move towards a goal whilst strategizing about their country’s balance of payments.",
         "registration_details": {
-            "teamSize": "NA",
-            "registration_fee": "NA"
+            "teamSize": "2",
+            "registration_fee": "Rs. 100/-"
         },
-        "coordinators": []
+        "coordinators": [
+            {
+                "name": "",
+                "contact": "+91 "
+            },
+            {
+                "name": "",
+                "contact": "+91 "
+            }
+        ]
     },
     {
         "name": "Amoung Us AR/VR",
@@ -96,22 +110,38 @@
         "coordinators": []
     },
     {
-        "name": "Robotics-Aaveg",
-        "description": "",
-        "detailedDescription": "",
+        "name": "Capture The Flag",
+        "description": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to",
+        "detailedDescription": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to uncover 'flags' hidden within vulnerable systems or applications. These flags are typically short strings of text that serve as proof that the participant has successfully exploited a vulnerability or solved a particular challenge.",
         "coordinators": [
             {
-                "name": "",
-                "contact": ""
+                "name": "Annada Dash",
+                "contact": "+91 9004526186"
             },
             {
-                "name": "",
-                "contact": ""
+                "name": "Tanya Gadwal",
+                "contact": "+91 7888037364"
             }
         ],
         "registration_details": {
             "teamSize": 2,
-            "registration_fee": "Rs. /-"
+            "registration_fee": "Rs. 50/-(Cummins) Rs.100/- (Others)"
+        }
+    }
+    ,
+    {
+        "name": "Mozilla Village",
+        "description": "At the entrance, the individual participant or the duo has to choose any one chit out of the bowl...",
+        "detailedDescription": "At the entrance, the individual participant or the duo has to choose any one chit out of the bowl of chits. Each chit will contain permutations of any 4 games out of 6 total games. ",
+        "coordinators": [
+            {
+                "name": "Krushna Girnar ",
+                "contact": "+91 9421626435"
+            }
+        ],
+        "registration_details": {
+            "teamSize": "1 or 2",
+            "registration_fee": "Rs.30 /- (Individual) Rs.50/- (Pair)"
         }
     }
 
