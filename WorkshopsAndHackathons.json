@@ -54,13 +54,17 @@
         "name": "Software Hackathon",
         "description": "Ready to code your way through real-world challenges? Join our Software Hackathon for...",
         "detailed-description": "Ready to code your way through real-world challenges? Join our Software Hackathon for 24 hours of non-stop problem-solving! Get hands-on with industry problem statements and engineer innovative solutions. Don't miss out – register now!",
-        "teamSize": " 3 to 4 members",
+       
         "prizePool": "TBD",
-        "registrationFee": "Rs 200/- per team \nAdditional Fee for Round 3 Shortlisted Teams: Rs 100/- per team ",
+       
         "coordinators": [
-          { "name": "Sejal Shirude", "phone": "+91 7498641406" },
-          { "name": "Srushti Johari", "phone": "+91 8805580800" }
+          { "name": "Sejal Shirude", "contact": "+91 7498641406" },
+          { "name": "Srushti Johari", "contact": "+91 8805580800" }
         ],
+         "registration_details": {
+            "teamSize": "3 to 4 members",
+            "registration_fee": "Rs 200/- per team \nAdditional Fee : Round 3 Shortlisted Teams: Rs 100/- per team"
+        }, 
         "venue": "Cummins College Pune",
         "date": "TBD",
         "time": "TBD",
@@ -70,13 +74,17 @@
         "name": "Bug Zappers and Board Builders",
         "description": "In this event, the problem statement will consist of a real life application which will be ...",
         "detailed-description": "In this event, the problem statement will consist of a real life application which will be given to the participants and they have to simulate and implement the solution within 13 hours. This event will provide all participants a great opportunity and hands on experience to all the participants. ",
-        "teamSize": " 3 to 4 members",
+    
         "prizePool": "TBD",
-        "registrationFee": "100/- per team for quiz \n If the team is selected for 2nd round additional charges of 200/- apply. ",
+    
         "coordinators": [
-          { "name": "Anushka Patil ", "phone": "+91 7447551265" },
-          { "name": "Pranita Bhadange", "phone": "+91 7499630200" }
+          { "name": "Anushka Patil ", "contact": "+91 7447551265" },
+          { "name": "Pranita Bhadange", "contact": "+91 7499630200" }
         ],
+           "registration_details": {
+            "teamSize": "3 to 4 members",
+            "registration_fee": "Rs 100/- per team \nAdditional Fee : Round 2 Shortlisted Teams: Rs 200/- per team"
+        }, 
         "venue": "Cummins College Pune",
         "date": "TBD",
         "time": "TBD",
@@ -90,9 +98,13 @@
         "prizePool": "TBD",
         "registrationFee": "Rs 200/- per team",
         "coordinators": [
-          { "name": "Shreya Watwe", "phone": "+91 8888880300" },
-          { "name": "Rasika Devenhalli", "phone": "+91 7588063912" }
+          { "name": "Shreya Watwe", "contact": "+91 8888880300" },
+          { "name": "Rasika Devenhalli", "contact": "+91 7588063912" }
         ],
+           "registration_details": {
+            "teamSize": "3 to 4 members",
+            "registration_fee": "Rs 200/- per team"
+        }, 
         "venue": "Cummins College Pune",
         "date": "TBD",
         "time": "TBD",
