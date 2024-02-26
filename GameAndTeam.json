@@ -100,14 +100,19 @@
         ]
     },
     {
-        "name": "Amoung Us AR/VR",
-        "description": "An offline social deduction game inspired by 'Among Us', where players...",
-        "detailedDescription": "An offline social deduction game inspired by 'Among Us', where players complete AR tasks while imposters try to sabotage and eliminate crewmates. The Virtual Reality Showcase aims to provide participants with an immersive experience in virtual reality (VR) and augmented reality (AR). Attendees can explore various virtual environments and interactive experiences using Oculus Quest 2 headsets while engaging in AR-based activities while waiting in queue.",
+        "name": "Aaveg",
+        "description": "Teams have to build an autonomous robot which can follow a white line on a black background and complete ...",
+        "detailedDescription": "Teams have to build an autonomous robot which can follow a white line on a black background and complete the path specified. The bot has to go through the maze from the starting point to the ending point in minimum possible time",
         "registration_details": {
-            "teamSize": "NA",
-            "registration_fee": "NA"
+            "teamSize": "Minimum:8 Maximum:12",
+            "registration_fee": "Rs. 70/-"
         },
-        "coordinators": []
+        "coordinators": [
+            {
+                "name":"Garima Kodkani",
+                "contact":"+91  8459529779"
+            }
+        ]
     },
     {
         "name": "Capture The Flag",
@@ -142,6 +147,21 @@
         "registration_details": {
             "teamSize": "1 or 2",
             "registration_fee": "Rs.30 /- (Individual) Rs.50/- (Pair)"
+        }
+    },
+    {
+        "name": "ARong US",
+        "description": "An offline social deduction game inspired by 'Among Us', where players...",
+        "detailedDescription": "An offline social deduction game inspired by 'Among Us', where players complete AR tasks while imposters try to sabotage and eliminate crewmates.",
+        "coordinators": [
+            {
+                "name": "Tanishqa Borse",
+                "contact": "+91 9422346900"
+            }
+        ],
+        "registration_details": {
+            "teamSize": "Min-8 Max-12",
+            "registration_fee": "Rs.100/-"
         }
     }
 
