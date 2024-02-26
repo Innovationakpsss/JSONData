@@ -17,10 +17,16 @@
         "registration_details": {
             "teamSize": "1(Individual)",
             "registration_fee": "100/- "
-        }
+        },
+        "prizePool":"",
+      "venue": "Cummins College Pune",
+      "date": "TBD",
+      "time": "TBD",
+      "url": "https://unstop.com/p/gen-ai-demystified-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910279"
+
     },
     {
-        "name": "Quantum computing workshop",
+        "name": "Quantum Technologies workshop",
         "description": "A 3-hour Quantum Computing Workshop. Through hands-on activities, participants...",
         "detailedDescription": "A 3-hour Quantum Computing Workshop. Through hands-on activities, participants will explore the fundamentals of quantum mechanics and delve into the principles of quantum computing. Engage with qubits, quantum gates, and algorithms, gaining practical insights into this cutting-edge technology's potential applications.",
         "coordinators": [
@@ -36,7 +42,13 @@
         "registration_details": {
             "teamSize": "1(Individual)",
             "registration_fee": "50/- "
-        }
+        },
+         "prizePool":"",
+      "venue": "Cummins College Pune",
+      "date": "TBD",
+      "time": "TBD",
+        "url":"https://unstop.com/p/quantum-computing-workshop-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910070"
+        
     },
     {
         "name": "Software Hackathon",
@@ -52,7 +64,7 @@
         "venue": "Cummins College Pune",
         "date": "TBD",
         "time": "TBD",
-        "url":""
+        "url":"https://unstop.com/p/software-hackathon-2024-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-909930"
       },
       {
         "name": "Bug Zappers and Board Builders",
@@ -68,7 +80,7 @@
         "venue": "Cummins College Pune",
         "date": "TBD",
         "time": "TBD",
-        "urls" : ""
+        "url" : "https://unstop.com/p/bug-zappers-board-builders-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910180"
       },
       {
         "name": "Datathon",
@@ -84,7 +96,7 @@
         "venue": "Cummins College Pune",
         "date": "TBD",
         "time": "TBD",
-        "url" : ""
+        "url" : "https://unstop.com/o/yrp8PzR?lb=Of4ghhfk"
       }
 ]
 }
