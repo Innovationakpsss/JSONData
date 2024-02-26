@@ -53,7 +53,7 @@
     {
         "name": "Software Hackathon",
         "description": "Ready to code your way through real-world challenges? Join our Software Hackathon for...",
-        "detailed-description": "Ready to code your way through real-world challenges? Join our Software Hackathon for 24 hours of non-stop problem-solving! Get hands-on with industry problem statements and engineer innovative solutions. Don't miss out – register now!",
+        "detailedDescription": "Ready to code your way through real-world challenges? Join our Software Hackathon for 24 hours of non-stop problem-solving! Get hands-on with industry problem statements and engineer innovative solutions. Don't miss out – register now!",
        
         "prizePool": "TBD",
        
@@ -73,7 +73,7 @@
       {
         "name": "Bug Zappers and Board Builders",
         "description": "In this event, the problem statement will consist of a real life application which will be ...",
-        "detailed-description": "In this event, the problem statement will consist of a real life application which will be given to the participants and they have to simulate and implement the solution within 13 hours. This event will provide all participants a great opportunity and hands on experience to all the participants. ",
+        "detailedDescription": "In this event, the problem statement will consist of a real life application which will be given to the participants and they have to simulate and implement the solution within 13 hours. This event will provide all participants a great opportunity and hands on experience to all the participants. ",
     
         "prizePool": "TBD",
     
@@ -93,7 +93,7 @@
       {
         "name": "Datathon",
         "description": "Datathon, a 10-hour Data Science Hackathon, is a dynamic platform for teams to...",
-        "detailed-description": "Datathon, a 10-hour Data Science Hackathon, is a dynamic platform for teams to showcase their prowess in AI, ML, and Data Science through real-time projects. Emphasizing the core of data science, participants, in teams of three to four, dive into industry-oriented challenges. ",
+        "detailedDescription": "Datathon, a 10-hour Data Science Hackathon, is a dynamic platform for teams to showcase their prowess in AI, ML, and Data Science through real-time projects. Emphasizing the core of data science, participants, in teams of three to four, dive into industry-oriented challenges. ",
         "teamSize": " 3 to 4 members",
         "prizePool": "TBD",
         "registrationFee": "Rs 200/- per team",
