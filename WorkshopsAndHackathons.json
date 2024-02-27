@@ -7,21 +7,21 @@
         "coordinators": [
             {
                 "name": "Vishakha",
-                "contact": "8433539378"
+                "contact": "+91 8433539378"
             },
             {
                 "name": "Komal Chaudhari",
-                "contact": "7218335291"
+                "contact": "+91 7218335291"
             }
         ],
         "registration_details": {
             "teamSize": "1(Individual)",
             "registration_fee": "100/- "
         },
-        "prizePool":"",
+        "prizePool":"NA",
       "venue": "Cummins College Pune",
-      "date": "TBD",
-      "time": "TBD",
+      "date": "4th April 2024",
+      "time": "11.00 am",
       "url": "https://unstop.com/p/gen-ai-demystified-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910279"
 
     },
@@ -43,10 +43,10 @@
             "teamSize": "1(Individual)",
             "registration_fee": "50/- "
         },
-         "prizePool":"",
+         "prizePool":"NA",
       "venue": "Cummins College Pune",
-      "date": "TBD",
-      "time": "TBD",
+      "date": "5th April 2024",
+      "time": "12.00pm",
         "url":"https://unstop.com/p/quantum-computing-workshop-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910070"
         
     },
@@ -55,7 +55,7 @@
         "description": "Ready to code your way through real-world challenges? Join our Software Hackathon for...",
         "detailedDescription": "Ready to code your way through real-world challenges? Join our Software Hackathon for 24 hours of non-stop problem-solving! Get hands-on with industry problem statements and engineer innovative solutions. Don't miss out – register now!",
        
-        "prizePool": "TBD",
+        "prizePool": "Rs.50K",
        
         "coordinators": [
           { "name": "Sejal Shirude", "contact": "+91 7498641406" },
@@ -66,8 +66,8 @@
             "registration_fee": "Rs 200/- per team \nAdditional Fee : Round 3 Shortlisted Teams: Rs 100/- per team"
         }, 
         "venue": "Cummins College Pune",
-        "date": "TBD",
-        "time": "TBD",
+        "date": "4th and 5th April 2024",
+        "time": "8.00am",
         "url":"https://unstop.com/p/software-hackathon-2024-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-909930"
       },
       {
@@ -75,7 +75,7 @@
         "description": "In this event, the problem statement will consist of a real life application which will be ...",
         "detailedDescription": "In this event, the problem statement will consist of a real life application which will be given to the participants and they have to simulate and implement the solution within 13 hours. This event will provide all participants a great opportunity and hands on experience to all the participants. ",
     
-        "prizePool": "TBD",
+        "prizePool": "Rs.25k",
     
         "coordinators": [
           { "name": "Anushka Patil ", "contact": "+91 7447551265" },
@@ -86,8 +86,8 @@
             "registration_fee": "Rs 100/- per team \nAdditional Fee : Round 2 Shortlisted Teams: Rs 200/- per team"
         }, 
         "venue": "Cummins College Pune",
-        "date": "TBD",
-        "time": "TBD",
+        "date": "4th April 2024",
+        "time": "8.00 am",
         "url" : "https://unstop.com/p/bug-zappers-board-builders-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910180"
       },
       {
@@ -95,7 +95,7 @@
         "description": "Datathon, a 10-hour Data Science Hackathon, is a dynamic platform for teams to...",
         "detailedDescription": "Datathon, a 10-hour Data Science Hackathon, is a dynamic platform for teams to showcase their prowess in AI, ML, and Data Science through real-time projects. Emphasizing the core of data science, participants, in teams of three to four, dive into industry-oriented challenges. ",
         "teamSize": " 3 to 4 members",
-        "prizePool": "TBD",
+        "prizePool": "Rs.30K",
         "registrationFee": "Rs 200/- per team",
         "coordinators": [
           { "name": "Shreya Watwe", "contact": "+91 8888880300" },
@@ -106,8 +106,8 @@
             "registration_fee": "Rs 200/- per team"
         }, 
         "venue": "Cummins College Pune",
-        "date": "TBD",
-        "time": "TBD",
+        "date": "4th April 2024",
+        "time": "8.00 am",
         "url" : "https://unstop.com/o/yrp8PzR?lb=Of4ghhfk"
       }
 ]
