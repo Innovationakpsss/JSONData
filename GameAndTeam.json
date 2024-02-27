@@ -122,7 +122,7 @@
          "date":"",
         "time":"",
         "venue":"",
-        "url":""
+        "url":"https://unstop.com/competitions/tradetrek-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-911196"
     },
     {
         "name": "Aaveg",
@@ -139,30 +139,6 @@
             }
         ],
          "prizePool":"",
-         "date":"",
-        "time":"",
-        "venue":"",
-        "url":""
-    },
-    {
-        "name": "Capture The Flag",
-        "description": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to",
-        "detailedDescription": "Capture The Flag (CTF) is a type of competition that challenges participants to solve a variety of security-related tasks to uncover 'flags' hidden within vulnerable systems or applications. These flags are typically short strings of text that serve as proof that the participant has successfully exploited a vulnerability or solved a particular challenge.",
-        "coordinators": [
-            {
-                "name": "Annada Dash",
-                "contact": "+91 9004526186"
-            },
-            {
-                "name": "Tanya Gadwal",
-                "contact": "+91 7888037364"
-            }
-        ],
-        "registration_details": {
-            "teamSize": 2,
-            "registration_fee": "Rs. 50/-(Cummins) Rs.100/- (Others)"
-        },
-         "prizePool":"Rs.17K",
          "date":"",
         "time":"",
         "venue":"",
