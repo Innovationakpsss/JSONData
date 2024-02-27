@@ -125,12 +125,12 @@
         "url":"https://unstop.com/competitions/tradetrek-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-911196"
     },
     {
-        "name": "Aaveg",
+        "name": "TechnoVoyage:The Venusian Explorer",
         "description": "Teams have to build an autonomous robot which can follow a white line on a black background and complete ...",
-        "detailedDescription": "Teams have to build an autonomous robot which can follow a white line on a black background and complete the path specified. The bot has to go through the maze from the starting point to the ending point in minimum possible time",
+        "detailedDescription": "This is 1v1 robot controlling game, where players compete against each other to help the Shukrayaan reach its destination. There will be various obstacles in the path of the robot representing different stages of the Shukrayaan. The person who completes the task with the most points WINS!!",
         "registration_details": {
             "teamSize": "Minimum:8 Maximum:12",
-            "registration_fee": "Rs. 70/-"
+            "registration_fee": "Rs. 40/-"
         },
         "coordinators": [
             {
@@ -168,22 +168,26 @@
     {
         "name": "ARong US",
         "description": "An offline social deduction game inspired by 'Among Us', where players...",
-        "detailedDescription": "An offline social deduction game inspired by 'Among Us', where players complete AR tasks while imposters try to sabotage and eliminate crewmates.",
+        "detailedDescription": "An offline social deduction game inspired by 'Among Us', where players complete AR tasks while imposters try to sabotage and eliminate crewmates, on mobile phones",
         "coordinators": [
             {
                 "name": "Tanishqa Borse",
                 "contact": "+91 9422346900"
-            }
+            },
+            {
+                "name":"Siddhi Bharam",
+                "contact":"+91 9579522662"
+            } 
         ],
         "registration_details": {
             "teamSize": "Min-8 Max-12",
             "registration_fee": "Rs.100/-"
         },
-         "prizePool":"Rs.12K",
+         "prizePool":"NA",
          "date":"",
         "time":"",
         "venue":"",
-        "url":""
+        "url":"https://unstop.com/competitions/arong-us-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-911602"
     }
 
     
