@@ -71,9 +71,9 @@
         "teamSize": "1-4 per team",
         "registration_fee": "Rs. 300/-"
       },
-      "prizePool":"",
+      "prizePool":"Rs.24K",
       "venue": "Cummins College Pune",
-      "date": "TBD",
+      "date": "5th April 2024",
       "time": "TBD",
       "url": "https://unstop.com/p/climb-master-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910479"
     },
@@ -101,7 +101,7 @@
       },
       "prizePool": "Rs.8K",
       "venue": "Cummins College Pune",
-      "date": "4th April",
+      "date": "4th April 2024",
       "time": "2pm",
       "url": "https://unstop.com/p/ai-artist-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910202"
     },
@@ -127,7 +127,7 @@
       "prizePool": "Rs.18K",
       "venue": "Cummins College Pune",
       "date": "4th and 5th April",
-      "time": "TBD",
+      "time": "11.00 am",
       "url": "https://unstop.com/p/protosprint-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910074"
     },
     {
@@ -202,6 +202,31 @@
       "date": "5th April 2024",
       "time": "9.00 am",
       "url": "https://unstop.com/competitions/byte-battles-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-911378"
+    },
+    {
+      "name": "Hidden Expedition",
+      "description": "The Tech Debate Competition consists of multiple rounds where...",
+      "detailedDescription": "Hidden Expedition is a technical event in which your knowledge about electronics will be tested with a designing and implementation tasks. As a participant you would be asked to solve a series of questions and obtain clues to design and solve the circuit in the final round. The questions will be based on the basic core subjects . ",
+      "registration_details": {
+        "teamSize": "2-3",
+        "advancedRegistrationRequired": true,
+        "registration_fee": "Rs. 100/- per team"
+      },
+      "coordinators": [
+        {
+          "name": "Akanksha Shivarkar",
+          "contact": "+91 8421867767"
+        },
+        {
+          "name": "Amruta Kulkarni",
+          "contact": "+91 8956059131 "
+        }
+      ],
+      "prizePool": "Rs.15K",
+      "venue": "Cummins College Pune",
+      "date": "5th April 2024",
+      "time": "8.00 am",
+      "url": "https://unstop.com/p/hidden-expedition-mkssss-cummins-college-of-engineering-for-women-ccoew-pune-910317"
     }
   ]
 }
