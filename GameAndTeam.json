@@ -129,7 +129,7 @@
         "description": "Teams have to build an autonomous robot which can follow a white line on a black background and complete ...",
         "detailedDescription": "This is 1v1 robot controlling game, where players compete against each other to help the Shukrayaan reach its destination. There will be various obstacles in the path of the robot representing different stages of the Shukrayaan. The person who completes the task with the most points WINS!!(On the Spot Registration)",
         "registration_details": {
-            "teamSize": "Minimum:8 Maximum:12",
+            "teamSize": "NA",
             "registration_fee": "Rs. 40/-"
         },
         "coordinators": [
