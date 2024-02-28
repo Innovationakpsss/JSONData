@@ -40,7 +40,7 @@
         ],
         "registration_details": {
             "teamSize": 2,
-            "registration_fee": "Rs. 60/-"
+            "registration_fee": "Rs. 100/-"
         },
          "prizePool":"Rs.7.5K",
          "date":"4th and 5th April",
@@ -168,7 +168,7 @@
     {
         "name": "ARong US",
         "description": "An offline social deduction game inspired by 'Among Us', where players...",
-        "detailedDescription": "An offline social deduction game inspired by 'Among Us', where players complete AR tasks while imposters try to sabotage and eliminate crewmates, on mobile phones",
+        "detailedDescription": "An offline social deduction game inspired by 'Among Us', where players complete AR tasks while imposters try to sabotage and eliminate crewmates, all on your mobile phones",
         "coordinators": [
             {
                 "name": "Tanishqa Borse",
@@ -180,7 +180,7 @@
             } 
         ],
         "registration_details": {
-            "teamSize": "Min-8 Max-12",
+            "teamSize": "Min-1 Max-2",
             "registration_fee": "Rs.100/-"
         },
          "prizePool":"NA",
