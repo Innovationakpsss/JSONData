@@ -206,11 +206,11 @@
     {
       "name": "Hidden Expedition",
       "description": "The Tech Debate Competition consists of multiple rounds where...",
-      "detailedDescription": "Hidden Expedition is a technical event in which your knowledge about electronics will be tested with a designing and implementation tasks. As a participant you would be asked to solve a series of questions and obtain clues to design and solve the circuit in the final round. The questions will be based on the basic core subjects . ",
+      "detailedDescription": "Hidden Expedition is a technical event in which your knowledge about electronics will be tested with a designing and implementation tasks. As a participant you would be asked to solve a series of questions ( based on the basic core subjects) and obtain clues to obtain components and build the circuit in the final round.",
       "registration_details": {
         "teamSize": "2-3",
         "advancedRegistrationRequired": true,
-        "registration_fee": "Rs. 100/- per team"
+        "registration_fee": "Rs. 150/- per team"
       },
       "coordinators": [
         {
