@@ -1,0 +1,37 @@
+[
+  {
+    "time": "8:00am",
+    "event": "Software Hackathon",
+    "description": "Join us for a day of coding and collaboration.",
+    "location": "Cummins College",
+    "venue": "Mech Audi"
+  },
+  {
+    "time": "10:00am",
+    "event": "Workshop on React",
+    "description": "Learn React from industry experts.",
+    "location": "ABC Institute",
+    "venue": "Room 101"
+  },
+  {
+    "time": "1:00pm",
+    "event": "Lunch Break",
+    "description": "Enjoy a delicious lunch with fellow attendees.",
+    "location": "Onsite",
+    "venue": "Cafeteria"
+  },
+  {
+    "time": "3:00pm",
+    "event": "Panel Discussion",
+    "description": "Join our panelists for an insightful discussion on emerging technologies.",
+    "location": "Cummins College",
+    "venue": "Auditorium"
+  },
+  {
+    "time": "5:00pm",
+    "event": "Networking Session",
+    "description": "Network with industry professionals and expand your connections.",
+    "location": "Cummins College",
+    "venue": "Lobby"
+  }
+]
